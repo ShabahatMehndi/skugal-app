@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "skugal-app"
+  },
+  "targets": {
+    "skugal-app": {
+      "hosting": {
+        "skugal-app": [
+          "skugal-app"
+        ]
+      }
+    }
+  }
+}
